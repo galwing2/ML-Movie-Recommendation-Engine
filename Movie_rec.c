@@ -11,7 +11,7 @@
 #define EPOCHS 50
 #define K 20
 #define ALPHA 0.005f
-#define LAMBDA 0.02f
+#define LAMBDA 0.01f
 #define MEAN 3.53f
 
 void normalize_title(char* title);
